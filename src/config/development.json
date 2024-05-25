@@ -1,3 +1,3 @@
 {
-  "PROVIDER_SOCKET": "ws://167.71.232.229:80/ethereal-front-end"
+  "PROVIDER_SOCKET": "ws://167.71.232.229:8000/ethereal-front-end"
 }
